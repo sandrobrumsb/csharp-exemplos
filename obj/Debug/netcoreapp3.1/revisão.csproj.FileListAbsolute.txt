@@ -1,0 +1,13 @@
+C:\csharp-exemplos\revisão\bin\Debug\netcoreapp3.1\revisão.exe
+C:\csharp-exemplos\revisão\bin\Debug\netcoreapp3.1\revisão.deps.json
+C:\csharp-exemplos\revisão\bin\Debug\netcoreapp3.1\revisão.runtimeconfig.json
+C:\csharp-exemplos\revisão\bin\Debug\netcoreapp3.1\revisão.runtimeconfig.dev.json
+C:\csharp-exemplos\revisão\bin\Debug\netcoreapp3.1\revisão.dll
+C:\csharp-exemplos\revisão\bin\Debug\netcoreapp3.1\revisão.pdb
+C:\csharp-exemplos\revisão\obj\Debug\netcoreapp3.1\revisão.csprojAssemblyReference.cache
+C:\csharp-exemplos\revisão\obj\Debug\netcoreapp3.1\revisão.AssemblyInfoInputs.cache
+C:\csharp-exemplos\revisão\obj\Debug\netcoreapp3.1\revisão.AssemblyInfo.cs
+C:\csharp-exemplos\revisão\obj\Debug\netcoreapp3.1\revisão.csproj.CoreCompileInputs.cache
+C:\csharp-exemplos\revisão\obj\Debug\netcoreapp3.1\revisão.dll
+C:\csharp-exemplos\revisão\obj\Debug\netcoreapp3.1\revisão.pdb
+C:\csharp-exemplos\revisão\obj\Debug\netcoreapp3.1\revisão.genruntimeconfig.cache
